@@ -1,4 +1,4 @@
-## `foundry-toolchain` Action
+https://foundry.paradigm.xyz## `foundry-toolchain` Action
 
 This GitHub Action installs [Foundry](https://github.com/foundry-rs/foundry), the blazing fast, portable and modular
 toolkit for Ethereum application development.
